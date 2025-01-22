@@ -5,6 +5,13 @@
 
 <br>
 
+<br>
+
+## 😎 Member
+| <img src="https://github.com/user-attachments/assets/2d485895-6658-4cca-b9be-4525d1bdb2c7" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/df57aa0e-185c-4dde-a7b6-688fa4010590" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/2ebbedef-85ee-4f6c-b7b7-0b7b216054dd" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/504cf9f8-3437-498d-95d6-6e6635a594ac" width="130" height="130"> |
+|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|                                          [강철원](https://github.com/Ryan-Dia)                                          |                                        [김명지](https://github.com/Starlight258)                                        |                                         [김진수](https://github.com/plan11plan)                                         |                                          [박형균](https://github.com/phk1128)                                           |
+
 ## 목차
 <details>
   <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_02">Chapter 02 : 객체 생성과 파괴</a></summary>
