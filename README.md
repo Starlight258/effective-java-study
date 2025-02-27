@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_03">Chapter 04 : 클래스와 인터페이스</a></summary>
+  <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_04">Chapter 04 : 클래스와 인터페이스</a></summary>
 
   - [Item 15 : 클래스와 멤버의 접근 권한을 최소화하라]()
 
