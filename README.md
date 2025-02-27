@@ -39,6 +39,17 @@
 
 </details>
 
+<details>
+  <summary><a href="https://github.com/SangSangPlus/effective-java-study/tree/main/Chapter_03">Chapter 04 : 클래스와 인터페이스</a></summary>
+
+  - [Item 15 : 클래스와 멤버의 접근 권한을 최소화하라]()
+
+  - [Item 16 : public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_16_public_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5%E1%84%82%E1%85%B3%E1%86%AB_public_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%A1_%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%80%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A1_%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)
+  - [Item 17 : 변경 가능성을 최소화하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_17_%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC_%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A9%E1%84%92%E1%85%AA%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf)
+  - [Item 18 : 상속보다는 컴포지션을 사용하라](https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_18_%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf)
+
+</details>
+
 
 ## **1주차** ( 01/06 (월) )       
 
@@ -125,6 +136,9 @@
 
 [📚 Item 14 Comparable을 구현할지 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_14_Comparable%EC%9D%84_%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80_%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90(%EA%B9%80%EB%AA%85%EC%A7%80).pdf
 [🎥 Item 14 발표 영상]: https://www.youtube.com/watch?v=1plqvDAf-hg
+
+
+
 
 ---
 <br>
