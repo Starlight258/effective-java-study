@@ -8,9 +8,14 @@
 <br>
 
 ## 😎 Member
-| <img src="https://github.com/user-attachments/assets/2d485895-6658-4cca-b9be-4525d1bdb2c7" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/df57aa0e-185c-4dde-a7b6-688fa4010590" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/2ebbedef-85ee-4f6c-b7b7-0b7b216054dd" width="130" height="130"> | <img src="https://github.com/user-attachments/assets/504cf9f8-3437-498d-95d6-6e6635a594ac" width="130" height="130"> |
+| <img src="https://github.com/user-attachments/assets/be2d0aa4-04e7-4596-898b-f3d200ee5a31" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/c9bce9c3-e239-493b-a43e-580b9b4d72b6" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/e96e5ccd-225b-4058-89e8-445c4dc6a6b3" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/c0bfad6d-fb83-4e04-a50e-0c2926796d87" width="150" height="150"> |
 |:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
-|                                          [강철원](https://github.com/Ryan-Dia)                                          |                                        [김명지](https://github.com/Starlight258)                                        |                                         [김진수](https://github.com/plan11plan)                                         |                                          [박형균](https://github.com/phk1128)                                           |
+| [강철원](https://github.com/Ryan-Dia) | [김명지](https://github.com/Starlight258) | [김진수](https://github.com/plan11plan) | [박형균](https://github.com/phk1128) |
+
+<!-- 새로 추가할 2명 (라젤, 비타) -->
+| <img src="프사 링크" width="150" height="150"> | <img src="프사 링크" width="150" height="150"> |
+|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+| 라젤 | 비타 |    
 
 ## 목차
 <details>
