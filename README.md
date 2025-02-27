@@ -75,6 +75,24 @@
 > | Item 15 | Item 16 | Item 17 | Item 18 |
 > |:-------:|:-------:|:-------:|:-------:|
 > |   박형균   |   강철원   |   김명지   |   김진수   |
+
+## **5주차** ( 02/28 (금) )
+
+> | Item 19 | Item 20 |
+> |:-------:|:-------:|
+> |   김명지   |   강철원   |
+
+## **6주차 예정** ( 03/8 (토) or 9 (일) )
+
+> | Item 21 | Item 22 |
+> |:-------:|:-------:|
+> |   라젤   |   비타   |
+
+## **7주차 예정** ( 03/14 (금) or 15 (토) or 16 (일) )
+
+> | Item 23 | Item 24 |
+> |:-------:|:-------:|
+> |   김진수   |   박형균   |
    
 ### 💎 발표자료
 
@@ -93,6 +111,10 @@
 |[📚 Item 11 equals를 재정의하려거든 hashCode도 재정의하라] <br> [🎥 Item 11 발표 영상] | [📚 Item 12 toString을 항상 재정의하라] <br> [🎥 Item 12 발표 영상] |
 <img width="500px" alt="Item 13 썸네일" src="https://github.com/user-attachments/assets/445dd57a-0ff1-4087-82b3-28b014f84313"> | <img width="500px" alt="Item 14 썸네일" src="https://github.com/user-attachments/assets/70c859f5-d4b9-458d-bece-53304b4b7c26">
 |[📚 Item 13 clone 재정의는 주의해서 진행하라] <br> [🎥 Item 13 발표 영상] | [📚 Item 14 Comparable을 구현할지 고려하라] <br> [🎥 Item 14 발표 영상] |
+<img width="500px" alt="Item 15 썸네일" src="https://github.com/user-attachments/assets/9c8d215b-ab43-4307-b745-bdceb291fdf7"> | <img width="500px" alt="Item 16 썸네일" src="https://github.com/user-attachments/assets/2a829c12-518c-40b2-8d3f-ba760fac1c7c">
+|[📚 Item 15 클래스와 멤버의 접근 권한을 최소화하라] <br> [🎥 Item 15 발표 영상] | [📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라] <br> [🎥 Item 16 발표 영상] |
+<img width="500px" alt="Item 17 썸네일" src="https://github.com/user-attachments/assets/fba712e8-8769-4929-8112-ae12e6d25a03"> | <img width="500px" alt="Item 18 썸네일" src="https://github.com/user-attachments/assets/8e550e1c-2b6d-4170-916d-5f6f60d9ecbb">
+|[📚 Item 17 변경 가능성을 최소화하라] <br> [🎥 Item 17 발표 영상] | [📚 Item 18 상속보다는 컴포지션을 사용하라] <br> [🎥 Item 18 발표 영상] |
 
 
 [📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md
@@ -137,8 +159,17 @@
 [📚 Item 14 Comparable을 구현할지 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_03/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_14_Comparable%EC%9D%84_%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80_%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90(%EA%B9%80%EB%AA%85%EC%A7%80).pdf
 [🎥 Item 14 발표 영상]: https://www.youtube.com/watch?v=1plqvDAf-hg
 
+[📚 Item 15 클래스와 멤버의 접근 권한을 최소화하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_16_public_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5%E1%84%82%E1%85%B3%E1%86%AB_public_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%A1_%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%80%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A1_%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf
+[🎥 Item 15 발표 영상]: https://www.youtube.com/@beyond-imagination-9
 
+[📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_16_public_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5%E1%84%82%E1%85%B3%E1%86%AB_public_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%A1_%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%80%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A1_%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf
+[🎥 Item 16 발표 영상]: https://www.youtube.com/@beyond-imagination-9
 
+[📚 Item 17 변경 가능성을 최소화하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_17_%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC_%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A9%E1%84%92%E1%85%AA%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 17 발표 영상]: https://www.youtube.com/@beyond-imagination-9
+
+[📚 Item 18 상속보다는 컴포지션을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_18_%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
+[🎥 Item 18 발표 영상]: https://www.youtube.com/@beyond-imagination-9
 
 ---
 <br>
