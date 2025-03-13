@@ -87,13 +87,13 @@
 > |:-------:|:-------:|
 > |   김명지   |   강철원   |
 
-## **6주차 예정** ( 03/10 (월) )
+## **6주차** ( 03/10 (월) )
 
 > | Item 21 | Item 22 |
 > |:-------:|:-------:|
 > |   라젤   |   비타   |
 
-## **7주차 예정** ( 03/14 (금) or 15 (토) or 16 (일) )
+## **7주차** ( 03/15 (토) )
 
 > | Item 23 | Item 24 |
 > |:-------:|:-------:|
@@ -118,8 +118,12 @@
 |[📚 Item 13 clone 재정의는 주의해서 진행하라] <br> [🎥 Item 13 발표 영상] | [📚 Item 14 Comparable을 구현할지 고려하라] <br> [🎥 Item 14 발표 영상] |
 <img width="500px" alt="Item 15 썸네일" src="https://github.com/user-attachments/assets/9c8d215b-ab43-4307-b745-bdceb291fdf7"> | <img width="500px" alt="Item 16 썸네일" src="https://github.com/user-attachments/assets/2a829c12-518c-40b2-8d3f-ba760fac1c7c">
 |[📚 Item 15 클래스와 멤버의 접근 권한을 최소화하라] <br> [🎥 Item 15 발표 영상] | [📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라] <br> [🎥 Item 16 발표 영상] |
-<img width="500px" alt="Item 17 썸네일" src="https://github.com/user-attachments/assets/fba712e8-8769-4929-8112-ae12e6d25a03"> | <img width="500px" alt="Item 18 썸네일" src="https://github.com/user-attachments/assets/8e550e1c-2b6d-4170-916d-5f6f60d9ecbb">
+<img width="500px" alt="Item 17 썸네일" src="https://github.com/user-attachments/assets/fba712e8-8769-4929-8112-ae12e6d25a03"> | <img width="500px" alt="Item 18 썸네일" src="https://github.com/user-attachments/assets/eedb72a0-6c0f-4dc7-bc70-38ab6fe4ddae">
 |[📚 Item 17 변경 가능성을 최소화하라] <br> [🎥 Item 17 발표 영상] | [📚 Item 18 상속보다는 컴포지션을 사용하라] <br> [🎥 Item 18 발표 영상] |
+<img width="500px" alt="Item 19 썸네일" src="https://github.com/user-attachments/assets/1c463454-e853-400d-9836-c3f15f095b0f"> | <img width="500px" alt="Item 20 썸네일" src="https://github.com/user-attachments/assets/92b55019-a280-4f0f-9f9e-f317f8993432">
+|[📚 Item 19 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라] <br> [🎥 Item 19 발표 영상] | [📚 Item 20 추상 클래스보다는 인터페이스를 우선하라] <br> [🎥 Item 20 발표 영상] |
+<img width="500px" alt="Item 21 썸네일" src="https://github.com/user-attachments/assets/7b47dde8-e826-44f1-89fa-f4031a2a4bfd"> | <img width="500px" alt="Item 22 썸네일" src="">
+|[📚 Item 21 인터페이스는 구현하는 쪽을 생각해 설계하라] <br> [🎥 Item 21 발표 영상] | [📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라] <br> [🎥 Item 22 발표 영상] |
 
 
 [📚 Item 1 생성자 대신 정적 팩터리 메서드를 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_02/%5B%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%5Ditem_01_%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC(%EB%B0%95%ED%98%95%EA%B7%A0).md
@@ -168,13 +172,31 @@
 [🎥 Item 15 발표 영상]: https://www.youtube.com/watch?v=CNqU-iPtkTE&t=460s
 
 [📚 Item 16 public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_16_public_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5%E1%84%82%E1%85%B3%E1%86%AB_public_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%A1_%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%80%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A1_%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf
-[🎥 Item 16 발표 영상]: [https://www.youtube.com/@beyond-imagination-9](https://www.youtube.com/watch?v=GGn04VXVgag)
+[🎥 Item 16 발표 영상]: https://www.youtube.com/watch?v=GGn04VXVgag
 
 [📚 Item 17 변경 가능성을 최소화하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_17_%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC_%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8E%E1%85%AC%E1%84%89%E1%85%A9%E1%84%92%E1%85%AA%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
-[🎥 Item 17 발표 영상]: [https://www.youtube.com/@beyond-imagination-9](https://www.youtube.com/watch?v=v7Af5uTJecg)
+[🎥 Item 17 발표 영상]: https://www.youtube.com/watch?v=v7Af5uTJecg
 
 [📚 Item 18 상속보다는 컴포지션을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_18_%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
 [🎥 Item 18 발표 영상]: https://www.youtube.com/@beyond-imagination-9
+
+[📚 Item 19 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_18_%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
+[🎥 Item 19 발표 영상]: https://www.youtube.com/@beyond-imagination-9
+
+[📚 Item 20 추상 클래스보다는 인터페이스를 우선하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_18_%20%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
+[🎥 Item 20 발표 영상]: https://www.youtube.com/@beyond-imagination-9
+
+[📚 Item 21 인터페이스는 구현하는 쪽을 생각해 설계하라]: (업로드중)
+[🎥 Item 21 발표 영상]: (업로드중)
+
+[📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라]: (업로드중)
+[🎥 Item 22 발표 영상]: (업로드중)
+
+[📚 Item 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라]: (업로드중)
+[🎥 Item 23 발표 영상]: (업로드중)
+
+[📚 Item 24 멤버 클래스는 되도록 static으로 만들라]: (업로드중)
+[🎥 Item 24 발표 영상]: (업로드중)
 
 ---
 <br>
