@@ -233,22 +233,24 @@
 |[📚 Item 21 인터페이스는 구현하는 쪽을 생각해 설계하라] <br> [🎥 Item 21 발표 영상] | [📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라] <br> [🎥 Item 22 발표 영상] |
 <img width="500px" alt="Item 23 썸네일" src="https://github.com/user-attachments/assets/960ebe1b-4783-4fd6-b28f-d7187884334a"> | <img width="500px" alt="Item 24 썸네일" src="https://github.com/user-attachments/assets/cd21d069-e52d-4454-a144-9ef4ac8c6845">
 |[📚 Item 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 23 발표 영상] | [📚 Item 24 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 24 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 25 톱레벨 클래스는 한 파일에 하나만 담으라] <br> [🎥 Item 25 발표 영상] | [📚 Item 26 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 26 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 27 비검사 경고를 제거하라] <br> [🎥 Item 27 발표 영상] | [📚 Item 28 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 28 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 29 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 29 발표 영상] | [📚 Item 30 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 30 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 31 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 31 발표 영상] | [📚 Item 32 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 32 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 33 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 33 발표 영상] | [📚 Item 34 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 34 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 35 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 35 발표 영상] | [📚 Item 36 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 36 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 37 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 37 발표 영상] | [📚 Item 38 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 38 발표 영상] |
-<img width="500px" alt="Item 23 썸네일" src=""> | <img width="500px" alt="Item 24 썸네일" src="">
-|[📚 Item 39 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 39 발표 영상] | [📚 Item 40 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 40 발표 영상] |
+<img width="500px" alt="Item 25 썸네일" src="https://github.com/user-attachments/assets/2a67494d-137a-4634-9a88-3666f2bd5e12"> | <img width="500px" alt="Item 26 썸네일" src="https://github.com/user-attachments/assets/f79fb17a-45ed-4c1c-b320-5a921f513e1d">
+|[📚 Item 25 톱레벨 클래스는 한 파일에 하나만 담으라] <br> [🎥 Item 25 발표 영상] | [📚 Item 26 로 타입으로 사용하지말라] <br> [🎥 Item 26 발표 영상] |
+<img width="500px" alt="Item 27 썸네일" src="https://github.com/user-attachments/assets/1c0b04f4-2c10-4e4c-b9ad-9dbdad5156a6"> | <img width="500px" alt="Item 28 썸네일" src="https://github.com/user-attachments/assets/d475466e-d73c-4272-91b5-4a8350f2ff73">
+|[📚 Item 27 비검사 경고를 제거하라] <br> [🎥 Item 27 발표 영상] | [📚 Item 28 배열보다는 리스트를 사용하라] <br> [🎥 Item 28 발표 영상] |
+<img width="500px" alt="Item 29 썸네일" src="https://github.com/user-attachments/assets/b677df0b-60ff-4370-bbd5-31d6136bbd6e"> | <img width="500px" alt="Item 30 썸네일" src="https://github.com/user-attachments/assets/d305b668-1e1c-40a4-bd9c-b8a418ca5015">
+|[📚 Item 29 이왕이면 제네릭 타입으로 만들라] <br> [🎥 Item 29 발표 영상] | [📚 Item 30 이왕이면 제네릭 메서드로 만들라] <br> [🎥 Item 30 발표 영상] |
+<img width="500px" alt="Item 31 썸네일" src="https://github.com/user-attachments/assets/df81bffb-4f4e-4b4d-b725-863fc8f38aa8"> | <img width="500px" alt="Item 32 썸네일" src="">
+|[📚 Item 31 한정적 와일드카드를 사용해 API 유연성을 높이라] <br> [🎥 Item 31 발표 영상] | [📚 Item 32 ] <br> [🎥 Item 32 발표 영상] |
+<img width="500px" alt="Item 33 썸네일" src="https://github.com/user-attachments/assets/aa256329-0cd1-4b89-bbcb-60e5022914ed"> | <img width="500px" alt="Item 34 썸네일" src="https://github.com/user-attachments/assets/83509011-0836-4196-84f9-c95a125c17bc">
+|[📚 Item 33 타입 안전 이종 컨테이너를 고려하라] <br> [🎥 Item 33 발표 영상] | [📚 Item 34 int 상수 대신 열거 타입을 사용하라] <br> [🎥 Item 34 발표 영상] |
+<img width="500px" alt="Item 35 썸네일" src="https://github.com/user-attachments/assets/9820676b-04ad-43d5-b3a4-4028c2a6a0be"> | <img width="500px" alt="Item 36 썸네일" src="https://github.com/user-attachments/assets/6d376c9e-37e5-4afc-b972-929ea6cc9b9d">
+|[📚 Item 35 ordinal 메서드 대신 인스턴스 필드를 사용하라] <br> [🎥 Item 35 발표 영상] | [📚 Item 36 비트 필드 대신 EnumSet을 사용하라] <br> [🎥 Item 36 발표 영상] |
+<img width="500px" alt="Item 37 썸네일" src=""> | <img width="500px" alt="Item 38 썸네일" src="https://github.com/user-attachments/assets/48d1be75-7b05-4951-a99b-50d7cdeef4a6">
+|[📚 Item 37 ] <br> [🎥 Item 37 발표 영상] | [📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라] <br> [🎥 Item 38 발표 영상] |
+<img width="500px" alt="Item 39 썸네일" src="https://github.com/user-attachments/assets/50afa5f5-a4ef-4394-b9bb-57d6782a0527"> | <img width="500px" alt="Item 40 썸네일" src="">
+|[📚 Item 39 명명 패턴보다 애너테이션을 사용하라] <br> [🎥 Item 39 발표 영상] | [📚 Item 40 ] <br> [🎥 Item 40 발표 영상] |
+<img width="500px" alt="Item 41 썸네일" src="https://github.com/user-attachments/assets/5a34d6e5-b3aa-4335-817f-4534d726dd95"> | <img width="500px" alt="Item 42 썸네일" src="">
+|[📚 Item 41 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라] <br> [🎥 Item 41 발표 영상] | [📚 Item 42 ] <br> [🎥 Item 42 발표 영상] |
 
 
 <!--
@@ -322,7 +324,7 @@
 [🎥 Item 20 발표 영상]: https://www.youtube.com/watch?v=cUpxxSUTu-M
 
 [📚 Item 21 인터페이스는 구현하는 쪽을 생각해 설계하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_21_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A2_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%85%E1%85%A1%E1%84%8C%E1%85%A6%E1%86%AF)pdf.pdf
-[🎥 Item 21 발표 영상]: (업로드중)
+[🎥 Item 21 발표 영상]: https://www.youtube.com/watch?v=IsPZRY22lxE
 
 [📚 Item 22 인터페이스는 타입을 정의하는 용도로만 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem_22_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%83%E1%85%A9%E1%84%85%E1%85%A9%E1%84%86%E1%85%A1%E1%86%AB_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%B5%E1%84%90%E1%85%A1)pdf.pdf
 [🎥 Item 22 발표 영상]: (업로드중)
@@ -332,6 +334,48 @@
 
 [📚 Item 24 내부 클래스는 되도록 static으로 선언하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem24_%E1%84%82%E1%85%A2%E1%84%87%E1%85%AE_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%83%E1%85%AC%E1%84%83%E1%85%A9%E1%84%85%E1%85%A9%E1%86%A8_static%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf
 [🎥 Item 24 발표 영상]: https://www.youtube.com/watch?v=swgclcW_oJA
+
+[📚 Item 25 톱레벨 클래스는 한 파일에 하나만 담으라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_04/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5D%20item_25_%E1%84%90%E1%85%A9%E1%86%B8%E1%84%85%E1%85%A6%E1%84%87%E1%85%A6%E1%86%AF_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%92%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A6_%E1%84%92%E1%85%A1%E1%84%82%E1%85%A1%E1%84%86%E1%85%A1%E1%86%AB_%E1%84%83%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A1(%E1%84%85%E1%85%A1%E1%84%8C%E1%85%A6%E1%86%AF).pdf
+[🎥 Item 25 발표 영상]:  https://www.youtube.com/watch?v=zAtPBHVHD4Q
+
+[📚 Item 26 로 타입으로 사용하지말라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_26_%E1%84%85%E1%85%A9_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%86%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A1.pdf
+[🎥 Item 26 발표 영상]:  (업로드중)
+
+[📚 Item 27 비검사 경고를 제거하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem27_%E1%84%87%E1%85%B5%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A1_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
+[🎥 Item 27 발표 영상]:  https://www.youtube.com/watch?v=fwD5ReqokcQ
+
+[📚 Item 28 배열보다는 리스트를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_28_%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 28 발표 영상]:  https://www.youtube.com/watch?v=W5h7SFXcXoI
+
+[📚 Item 29 이왕이면 제네릭 타입으로 만들라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem29_%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf
+[🎥 Item 29 발표 영상]:  https://www.youtube.com/watch?v=lDYNKzRYm9g
+
+[📚 Item 30 이왕이면 제네릭 메서드로 만들라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem30_%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8_%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%20.pdf
+[🎥 Item 30 발표 영상]:  (업로드중)
+
+[📚 Item 31 한정적 와일드카드를 사용해 API 유연성을 높이라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem31_%E1%84%92%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8_%E1%84%8B%E1%85%AA%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A2_API_%E1%84%8B%E1%85%B2%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%82%E1%85%A9%E1%87%81%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1.pdf
+[🎥 Item 31 발표 영상]: https://www.youtube.com/watch?v=CDdsfP6FzyQ
+
+[📚 Item 33 타입 안전 이종 컨테이너를 고려하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_05/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem_33_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8_%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A9%E1%86%BC_%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%82%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%80%E1%85%A9%E1%84%85%E1%85%A7%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.pdf
+[🎥 Item 33 발표 영상]:  https://www.youtube.com/watch?v=9T5NoY6U2y0
+
+[📚 Item 34 int 상수 대신 열거 타입을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5D%20Item_34_int_%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%AE_%E1%84%83%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB_%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE).pdf
+[🎥 Item 34 발표 영상]:  (업로드중)
+
+[📚 Item 35 ordinal 메서드 대신 인스턴스 필드를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem_35_ordinal%20%E1%84%86%E1%85%A6%E1%84%89%E1%85%A5%E1%84%83%E1%85%B3_%E1%84%83%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 35 발표 영상]:  (업로드중)
+
+[📚 Item 36 비트 필드 대신 EnumSet을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_36_%E1%84%87%E1%85%B5%E1%84%90%E1%85%B3_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%B3_%E1%84%83%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB_EnumSet%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%85%E1%85%A1%E1%84%8C%E1%85%A6%E1%86%AF).pdf
+[🎥 Item 36 발표 영상]:  (업로드중)
+
+[📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem_38_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF_%E1%84%89%E1%85%AE_%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B5_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
+[🎥 Item 38 발표 영상]: (업로드중)
+
+[📚 Item 39 명명 패턴보다 애너테이션을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItme_39_%E1%84%86%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC_%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1_%E1%84%8B%E1%85%A2%E1%84%82%E1%85%A5%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.pdf
+[🎥 Item 39 발표 영상]:  (업로드중)
+
+[📚 Item 41 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem41_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A1%E1%84%85%E1%85%A7%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B2%E1%86%AB).pdf
+[🎥 Item 41 발표 영상]:  (업로드중)
 
 <!--
 형식 :
