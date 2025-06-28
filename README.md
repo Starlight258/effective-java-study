@@ -275,17 +275,21 @@
 |[📚 Item 33 타입 안전 이종 컨테이너를 고려하라] <br> [🎥 Item 33 발표 영상] | [📚 Item 34 int 상수 대신 열거 타입을 사용하라] <br> [🎥 Item 34 발표 영상] |
 <img width="500px" alt="Item 35 썸네일" src="https://github.com/user-attachments/assets/9820676b-04ad-43d5-b3a4-4028c2a6a0be"> | <img width="500px" alt="Item 36 썸네일" src="https://github.com/user-attachments/assets/6d376c9e-37e5-4afc-b972-929ea6cc9b9d">
 |[📚 Item 35 ordinal 메서드 대신 인스턴스 필드를 사용하라] <br> [🎥 Item 35 발표 영상] | [📚 Item 36 비트 필드 대신 EnumSet을 사용하라] <br> [🎥 Item 36 발표 영상] |
-<img width="500px" alt="Item 37 썸네일" src=""> | <img width="500px" alt="Item 38 썸네일" src="https://github.com/user-attachments/assets/48d1be75-7b05-4951-a99b-50d7cdeef4a6">
-|[📚 Item 37 ] <br> [🎥 Item 37 발표 영상] | [📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라] <br> [🎥 Item 38 발표 영상] |
-<img width="500px" alt="Item 39 썸네일" src="https://github.com/user-attachments/assets/50afa5f5-a4ef-4394-b9bb-57d6782a0527"> | <img width="500px" alt="Item 40 썸네일" src="">
-|[📚 Item 39 명명 패턴보다 애너테이션을 사용하라] <br> [🎥 Item 39 발표 영상] | [📚 Item 40 ] <br> [🎥 Item 40 발표 영상] |
-<img width="500px" alt="Item 41 썸네일" src="https://github.com/user-attachments/assets/5a34d6e5-b3aa-4335-817f-4534d726dd95"> | <img width="500px" alt="Item 42 썸네일" src="">
-|[📚 Item 41 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라] <br> [🎥 Item 41 발표 영상] | [📚 Item 42 ] <br> [🎥 Item 42 발표 영상] |
-
+<img width="500px" alt="Item 37 썸네일" src="https://github.com/user-attachments/assets/1e529a95-292f-4a7c-b5f8-ff2c4c423090"> | <img width="500px" alt="Item 38 썸네일" src="https://github.com/user-attachments/assets/48d1be75-7b05-4951-a99b-50d7cdeef4a6">
+|[📚 Item 37 Ordinal 인덱싱 대신 EnuMap을 사용하라] <br> [🎥 Item 37 발표 영상] | [📚 Item 38 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라] <br> [🎥 Item 38 발표 영상] |
+<img width="500px" alt="Item 39 썸네일" src="https://github.com/user-attachments/assets/50afa5f5-a4ef-4394-b9bb-57d6782a0527"> | <img width="500px" alt="Item 40 썸네일" src="https://github.com/user-attachments/assets/d62d0d86-2368-46e2-8ce8-17968ae61cee">
+|[📚 Item 39 명명 패턴보다 애너테이션을 사용하라] <br> [🎥 Item 39 발표 영상] | [📚 Item 40 @Override 애노테이션을 일관되게 사용하라] <br> [🎥 Item 40 발표 영상] |
+<img width="500px" alt="Item 41 썸네일" src="https://github.com/user-attachments/assets/5a34d6e5-b3aa-4335-817f-4534d726dd95"> | <img width="500px" alt="Item 42 썸네일" src="https://github.com/user-attachments/assets/3211d673-c4e0-40b6-add8-4a4b3db718ba">
+|[📚 Item 41 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라] <br> [🎥 Item 41 발표 영상] | [📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] |
+<img width="500px" alt="Item 43 썸네일" src="https://github.com/user-attachments/assets/43c2af2b-dae2-4639-be4b-3054ca43223c"> | <img width="500px" alt="Item 44 썸네일" src="https://github.com/user-attachments/assets/ef4ea6f7-047e-436e-92a7-3eaa36ce5223">
+|[📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상] | [📚 Item 44 표준 함수형 인터페이스를 사용하라] <br> [🎥 Item 44 발표 영상] |
+<img width="500px" alt="Item 45 썸네일" src="-"> | <img width="500px" alt="Item 47 썸네일" src="https://github.com/user-attachments/assets/a007a9ee-c861-4565-ac63-6c8c1e6f2a7e">
+|[📚 Item 45 스트림은 주의해서 사용하라] <br> [🎥 Item 45 발표 영상] | [📚 Item 47 반환 타입으로는 스트림보다 컬렉션이 낫다] <br> [🎥 Item 47 발표 영상] |
 
 <!--
 형식은 아래와 같이 합니다 :
-<img width="500px" alt="Item 23 썸네일" src="이미지 주소> | <img width="500px" alt="Item 24 썸네일" src="이미지 주소">
+<img width="500px" alt="Item 23 썸네일![Uploading item_42.png…]()
+" src="이미지 주소> | <img width="500px" alt="Item 24 썸네일" src="이미지 주소">
 |[📚 Item 23 태그 달린 클래스보다는 클래스 계층구조를 활용하라] <br> [🎥 Item 24 발표 영상] | [📚 Item 24 내부 클래스는 되도록 static으로 선언하라] <br> [🎥 Item 24 발표 영상] |
 
 ***주의***
