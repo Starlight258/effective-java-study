@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b94b1424-6496-4702-a28f-dae80d2d9d6e)# effective-java-study
+# effective-java-study
 
 ![image](https://github.com/uhanuu/effective-java/assets/110734817/b3de0805-d28d-44f7-af6a-8cf644e8ee80)
 
