@@ -1,4 +1,4 @@
-# effective-java-study
+![image](https://github.com/user-attachments/assets/b94b1424-6496-4702-a28f-dae80d2d9d6e)# effective-java-study
 
 ![image](https://github.com/uhanuu/effective-java/assets/110734817/b3de0805-d28d-44f7-af6a-8cf644e8ee80)
 
@@ -297,7 +297,7 @@
 |[📚 Item 41 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라] <br> [🎥 Item 41 발표 영상] | [📚 Item 42 익명 클래스보다는 람다를 사용하라] <br> [🎥 Item 42 발표 영상] |
 <img width="500px" alt="Item 43 썸네일" src="https://github.com/user-attachments/assets/43c2af2b-dae2-4639-be4b-3054ca43223c"> | <img width="500px" alt="Item 44 썸네일" src="https://github.com/user-attachments/assets/ef4ea6f7-047e-436e-92a7-3eaa36ce5223">
 |[📚 Item 43 람다보다는 메서드 참조를 사용하라] <br> [🎥 Item 43 발표 영상] | [📚 Item 44 표준 함수형 인터페이스를 사용하라] <br> [🎥 Item 44 발표 영상] |
-<img width="500px" alt="Item 45 썸네일" src="-"> | <img width="500px" alt="Item 47 썸네일" src="https://github.com/user-attachments/assets/a007a9ee-c861-4565-ac63-6c8c1e6f2a7e">
+<img width="500px" alt="Item 45 썸네일" src="https://github.com/user-attachments/assets/5fcfd2e7-4230-4932-8dc0-f9319a42150a"> | <img width="500px" alt="Item 47 썸네일" src="https://github.com/user-attachments/assets/a007a9ee-c861-4565-ac63-6c8c1e6f2a7e">
 |[📚 Item 45 스트림은 주의해서 사용하라] <br> [🎥 Item 45 발표 영상] | [📚 Item 47 반환 타입으로는 스트림보다 컬렉션이 낫다] <br> [🎥 Item 47 발표 영상] |
 
 <!--
@@ -440,7 +440,7 @@
 [📚 Item 44 표준 함수형 인터페이스를 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_07/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_44_%E1%84%91%E1%85%AD%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5).pdf
 [🎥 Item 44 발표 영상]:  https://www.youtube.com/watch?v=YY3YYnAQUno
 
-[📚 Item 45 스트림은 주의해서 사용하라]: -
+[📚 Item 45 스트림은 주의해서 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_07/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_45_%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB_%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf
 [🎥 Item 45 발표 영상]:  https://www.youtube.com/watch?v=0d5UWx04u6U
 
 [📚 Item 47 반환 타입으로는 스트림보다 컬렉션이 낫다]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_07/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5Ditem_47_%E1%84%87%E1%85%A1%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1_%E1%84%8F%E1%85%A5%E1%86%AF%E1%84%85%E1%85%A6%E1%86%A8%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5_%E1%84%82%E1%85%A1%E1%86%BA%E1%84%83%E1%85%A1(%E1%84%85%E1%85%A1%E1%84%8C%E1%85%A6%E1%86%AF).pdf
