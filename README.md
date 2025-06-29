@@ -423,7 +423,7 @@
 [🎥 Item 38 발표 영상]: https://www.youtube.com/watch?v=MxF_JXGrmZc
 
 [📚 Item 39 명명 패턴보다 애너테이션을 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItme_39_%E1%84%86%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A7%E1%86%BC_%E1%84%91%E1%85%A2%E1%84%90%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1_%E1%84%8B%E1%85%A2%E1%84%82%E1%85%A5%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.pdf
-[🎥 Item 39 발표 영상]:  (업로드중)
+[🎥 Item 39 발표 영상]:  https://www.youtube.com/watch?v=MCorPzwAe7s
 
 [📚 Item 40 @Override 애노테이션을 일관되게 사용하라]: https://github.com/SangSangPlus/effective-java-study/blob/main/Chapter_06/%5B%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%5DItem_40_%40Override_%E1%84%8B%E1%85%A2%E1%84%82%E1%85%A9%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB%E1%84%83%E1%85%AC%E1%84%80%E1%85%A6_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1(%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8).pdf
 [🎥 Item 40 발표 영상]:  https://www.youtube.com/watch?v=WS_CnDJcV1o
